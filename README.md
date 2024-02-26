@@ -4,4 +4,4 @@ Sometimes we want to trigger a certain action, maybe animation, styles change, c
 
 This demo shows how to do so with react-hook-match-media package.
 
-Live demo: if_element_is_in_the_view_react.surge.sh
+Live demo: http://if_element_is_in_the_view_react.surge.sh

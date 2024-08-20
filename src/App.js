@@ -1,7 +1,6 @@
 import './App.css';
 
-// install and import react-hook-match-media and the hook
-// import {useMatchMedia} from 'react-hook-match-media'
+
 import useIsVisible from './hooks/useIsVisible.js'
 
 // import useRef from react
